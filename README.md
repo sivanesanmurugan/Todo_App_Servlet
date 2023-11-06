@@ -2,10 +2,12 @@
 Developed a Todo web application with the following requirements:
 👤 Login - Existing User and Admin
 👥 Register - New User
+
 🏠 Home - User
   👀 View Items 
     ➕ Add Item 
     ➖ Remove Item
+    
 📤 Logout
 -> '💻-Java, JSP, XML, Bootstrap, HTML, CSS' for coding. -> '🗃️-Database' for storing and retrieving data.
 

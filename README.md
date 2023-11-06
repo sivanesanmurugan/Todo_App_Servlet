@@ -1,6 +1,8 @@
 # Jsp_Todo_App_Servlet
 Developed a Todo web application with the following requirements:
+
 👤 Login - Existing User and Admin
+
 👥 Register - New User
 
 🏠 Home - User
@@ -12,13 +14,21 @@ Developed a Todo web application with the following requirements:
 -> '💻-Java, JSP, XML, Bootstrap, HTML, CSS' for coding. -> '🗃️-Database' for storing and retrieving data.
 
 Tables used for each sections:
+
 1. "🗃️-Auth table with Admin and User"  for storing user data.
+ 
 2. "🗃️-Todo Items table" for storing Items.
+   
 Steps used and challenges faced to build this application:-
+
 👉 Added the required maven dependencies (SQL, Servlet, JSTL).
+
 👉 Installed and used Tom cat server for server communication.
+
 👉 Connected Database for storing and accessing data.
+
 👉 Used MVC (Model, View, Controller) Architecture.
+
 👉 Extended "HttpServlet" for HTTP request (GET, POST).
 👉 Used HttpSession for storing session values.
 👉 Used JSP and JSTL for writing Java code inside HTML.
